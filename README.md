@@ -19,3 +19,9 @@ https://www.kaggle.com/moltean/fruits
 ![Prediction 14](https://github.com/olubiyiontheweb/custom_trained_fruit_recognition_cnn/blob/master/Prediction14.jpg)
 
 ![Prediction 16](https://github.com/olubiyiontheweb/custom_trained_fruit_recognition_cnn/blob/master/Prediction16.jpg)
+
+
+## Citation
+Training inference drawn from this research paper.
+
+[Horea Muresan, Mihai Oltean, Fruit recognition from images using deep learning!](https://www.researchgate.net/publication/321475443_Fruit_recognition_from_images_using_deep_learning), Acta Univ. Sapientiae, Informatica Vol. 10, Issue 1, pp. 26-42, 2018.
